@@ -10,7 +10,7 @@
 
 ## 实现思路
 首先为我们的banner设置一个div：  
-``` <div class="banner"></div> ``` 
+``` <div class="banner"></div> ```  
 为了便于我们做相关的调试，我们设置banner的高度为600px，背景颜色为red：  
 ``` .banner {
     background-color: red;
