@@ -145,5 +145,5 @@ CSS中 **linear-gradient()** 函数常常被用作线性渐变。最简单的，
 最终的效果：  
 ![banner](https://raw.githubusercontent.com/syk2018/image/master/%E5%9B%BE%E7%89%879.png)  
 ## 参考资料
-[CSS揭秘](https://book.douban.com/subject/26745943/)  
-[CSS3图像（第三版）](https://www.w3.org/TR/css3-images/)
++ [CSS揭秘](https://book.douban.com/subject/26745943/)  
++ [CSS3图像（第三版）](https://www.w3.org/TR/css3-images/)
