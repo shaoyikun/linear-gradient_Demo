@@ -76,7 +76,8 @@ CSS中 **linear-gradient()** 函数常常被用作线性渐变。最简单的，
 当然，为了避免每次改动条纹都要修改多处位置值，我们依然可以在CSS图像相关规范中找到捷径：  
 > "If a color-stop has a position that is less than the specified position of any color-stop before it in the list, set its position to be equal to the largest specified position of any color-stop before it."
 "（如果某个色标的位置值要比整个列表中在它之前的色标的位置值都要小，则该色标的位置值会被设置为它前面所有色标位置值的最大值）"
-这意味着如果把第二个色标的位置值设置为0，那么它的位置就总会被调整为前一个色标的位置值。也就是说这两种写法实现的效果是一样的：  
+这意味着如果把第二个色标的位置值设置为0，那么它的位置就总会被调整为前一个色标的位置值。也就是说这两种写法实现的效果是一样的： 
+ 
 ```
 .banner {
     background: linear-gradient(
